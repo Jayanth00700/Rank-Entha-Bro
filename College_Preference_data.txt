@@ -1,0 +1,3104 @@
+1
+JNTUH UNIVERSITY COLLEGE OF ENGINEERING HYDERABAD [JNTH]
+Estd:  1965
+
+Affiliation:  JNTUH
+
+Type: University
+
+ HYDERABAD, MEDCHAL
+
+A++
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  50,000
+
+JNTUH UNIVERSITY COLLEGE OF ENGINEERING -5 YEAR INTEGRATED MTECH SELF FINANCE [JNTHMT]
+Estd:  1965
+
+Affiliation:  JNTUH
+
+Type: University
+
+ KUKATPALLY, MEDCHAL
+
+A++
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  100,000
+
+2
+CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY [CBIT]
+Estd:  1979
+
+Affiliation:  OU
+
+Type: Autonomous
+
+ GANDIPET, RANGAREDDY
+
+A++
+ NBA Accredited
+
+NAAC "A++" Grade
+
+Fee  183,000
+
+3
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY [VJEC]
+Estd:  1995
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ BACHUPALLY, MEDCHAL
+
+A++
+ NBA Accredited
+
+NAAC "A++" Grade
+
+Fee  159,600
+
+4
+O U COLLEGE OF ENGINEERING HYDERABAD [OUCE]
+Estd:  1929
+
+Affiliation:  OU
+
+Type: University
+
+ HYDERABAD, HYDERABAD
+
+A++
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  50,000
+
+O U COLLEGE OF ENGINEERING HYDERABAD - SELF FINANCE [OUCESF]
+Estd:  1925
+
+Affiliation:  OU
+
+Type: Government (SF)
+
+ HYDERABAD, HYDERABAD
+
+A++
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  100,000
+
+5
+VASAVI COLLEGE OF ENGINEERING [VASV]
+Estd:  1981
+
+Affiliation:  OU
+
+Type: Autonomous
+
+ HYDERABAD, HYDERABAD
+
+A++
+ NBA Accredited
+
+NAAC "A++" Grade
+
+Fee  175,000
+
+6
+GOKARAJU RANGARAJU INSTITUTE OF ENGINEERING AND TECHNOLOGY [GRRR]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MIYAPUR, MEDCHAL
+
+A++
+ NBA Accredited
+
+NAAC "A++" Grade
+
+Fee  160,500
+
+O U COLLEGE OF TECHNOLOGY HYDERABAD - SELF FINANCE [OUCTSF]
+Estd:  1969
+
+Affiliation:  OU
+
+Type: Government (SF)
+
+ HYDERABAD, HYDERABAD
+
+A+
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  70,000
+
+O U COLLEGE OF TECHNOLOGY HYDERABAD [OUCT]
+Estd:  1969
+
+Affiliation:  OU
+
+Type: University
+
+ HYDERABAD, HYDERABAD
+
+A+
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  50,000
+
+7
+CVR COLLEGE OF ENGINEERING [CVRH]
+Estd:  2000
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+A+
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  163,000
+
+8
+MAHATMA GANDHI INSTITUTE OF TECHNOLOGY [MGIT]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GANDIPET, RANGAREDDY
+
+A+
+ NBA Accredited
+
+NAAC "A++" Grade
+
+Fee  167,000
+
+9
+SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY [SNIS]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+A+
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  133,000
+
+10
+VARDHAMAN COLLEGE OF ENGINEERING [VMEG]
+Estd:  1999
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ SHAMSHABAD, RANGAREDDY
+
+A+
+ NBA Accredited
+
+NAAC "A++" Grade
+
+Fee  140,000
+
+11
+KAKATIYA INSTITUTE OF TECHNOLOGY AND SCIENCE [KITS]
+Estd:  1980
+
+Affiliation:  KU
+
+Type: Autonomous
+
+ WARANGAL, HANAMKONDA
+
+A+
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  146,200
+
+12
+B V RAJU INSTITUTE OF TECHNOLOGY [BVRI]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ NARSAPUR, MEDAK
+
+A+
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  146,600
+
+13
+SR UNIVERSITY (formerly SR ENGINEERING COLLEGE) [SRHP]
+Estd:  2002
+
+Affiliation:  SR University
+
+Type: Private University
+
+ HASANPARTHY, HANAMKONDA
+
+A+
+ NBA Accredited
+
+No NAAC
+
+Fee  141,000
+
+14
+MVSR ENGINEERING COLLEGE [MVSR]
+Estd:  1980
+
+Affiliation:  OU
+
+Type: Autonomous
+
+ NADERGUL, RANGAREDDY
+
+A+
+ NBA Accredited
+
+NAAC "B++" Grade
+
+Fee  143,800
+
+15
+G NARAYNAMMA INSTITUTE OF TECHNOLOGY AND SCIENCE [GNTW]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ SHAIKPET, HYDERABAD
+
+A+
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  162,000
+
+16
+INSTITUTE OF AERONAUTICAL ENGINEERING [IARE]
+Estd:  2000
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ DUNDIGAL, MEDCHAL
+
+A+
+ NBA Accredited
+
+NAAC "A++" Grade
+
+Fee  97,500
+
+17
+ANURAG UNIVERSITY (formerly ANURAG GROUP OF INSTITUTIONS) [ANUG]
+Estd:  2002
+
+Affiliation:  Anurag University
+
+Type: Private University
+
+ GHATKESAR, MEDCHAL
+
+A+
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  135,000
+
+18
+BVRIT COLLEGE OF ENGINEERING FOR WOMEN [BVRW]
+Estd:  2012
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ BACHUPALLY, MEDCHAL
+
+A+
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  143,500
+
+19
+KESHAV MEMORIAL INSTITUTE OF TECHNOLOGY [KMIT]
+Estd:  2007
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ NARAYANAGUDA, HYDERABAD
+
+A+
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  129,200
+
+20
+VIDYAJYOTHI INSTITUTE OF TECHNOLOGY [VJIT]
+Estd:  1999
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MOINABAD, RANGAREDDY
+
+A+
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  95,200
+
+21
+MUFFAKHAM JAH COLLEGE OF ENGINEERING AND TECHNOLOGY [MJCT]
+Estd:  1980
+
+Affiliation:  OU
+
+Type: Private College
+
+ BANJARA HILLS, HYDERABAD
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  125,000
+
+22
+GURU NANAK INSTITUTIONS TECHNICAL CAMPUS [GURU]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  129,000
+
+23
+CMR COLLEGE OF ENGINEERING AND TECHNOLOGY [CMRK]
+Estd:  2002
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KANDLAKOYA, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  91,200
+
+24
+GEETANJALI COLLEGE OF ENGINEERING AND TECHNOLOGY [GCTC]
+Estd:  2005
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KEESARA, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  121,000
+
+25
+CMR INSTITUTE OF TECHNOLOGY [CMRM]
+Estd:  2005
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KANDLAKOYA, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  78,100
+
+26
+GURU NANAK INSTITUTE OF TECHNOLOGY [GNIT]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  77,000
+
+27
+JNTUH UNIVERSITY COLLEGE OF ENGINEERING JAGTIAL [JNKR]
+Estd:  2007
+
+Affiliation:  JNTUH
+
+Type: Government Autonomous
+
+ JAGITIAL, JAGTIAL
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  50,000
+
+28
+VAAGDEVI COLLEGE OF ENGINEERING [VAGE]
+Estd:  1998
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ WARANGAL, WARANGAL
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  105,000
+
+29
+ST MARTINS ENGINEERING COLLEGE [MRTN]
+Estd:  2002
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ DHULAPALLY, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  90,800
+
+30
+MATRUSRI ENGINEERING COLLEGE [MECS]
+Estd:  2011
+
+Affiliation:  OU
+
+Type: Autonomous
+
+ HYDERABAD, HYDERABAD
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  100,000
+
+31
+KGREDDY COLLEGE OF ENGINEERING AND TECHNOLOGY [KGRH]
+Estd:  2000
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MOINABAD, RANGAREDDY
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  102,900
+
+32
+MALLA REDDY COLLEGE OF ENGINEERING AND TECHNOLOGY [MLRD]
+Estd:  2004
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MYSAMMAGUDA, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  99,800
+
+33
+KAMALA INSTITUTE OF TECHNOLOGY AND SCIENCE [KTKM]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ HUZURABAD, KARIMNAGAR
+
+A
+ NBA Accredited
+
+NAAC "A++" Grade
+
+Fee  90,000
+
+34
+CMR TECHNICAL CAMPUS [CMRG]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KANDLAKOYA, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  79,700
+
+35
+SRIDEVI WOMENS ENGINEERING COLLEGE [SDEW]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GANDIPET, RANGAREDDY
+
+A
+ NBA Accredited
+
+NAAC "A++" Grade
+
+Fee  137,000
+
+36
+SRI INDU COLLEGE OF ENGINEERING AND TECHNOLOGY [INDU]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPAT, RANGAREDDY
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  62,000
+
+37
+MALLA REDDY ENGINEERING COLLEGE FOR WOMEN [MRCW]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MAISAMMAGU, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  72,300
+
+38
+J B INSTITUTE OF ENGINEERING AND TECHNOLOGY [JBIT]
+Estd:  1998
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ YENKAPALLY, RANGAREDDY
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  110,000
+
+39
+HYDERABAD INSTITUTE OF TECHNOLOGY AND MANAGEMENT [HITM]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MEDCHAL, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  104,900
+
+40
+KOMMURI PRATAP REDDY INSTITUTE OF TECHNOLOGY [KPRT]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  90,000
+
+41
+CMR ENGINEERING COLLEGE [CMRN]
+Estd:  2010
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KANDLAKOYA, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "B++" Grade
+
+Fee  70,000
+
+42
+MLR INSTITUTE OF TECHNOLOGY [MLID]
+Estd:  2005
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ DUNDIGAL, MEDCHAL
+
+A
+ NBA Accredited
+
+No NAAC
+
+Fee  90,200
+
+43
+NALLA NARASIMHA REDDY EDUCATIONAL SOCIETY GROUP OF INSTITUTIONS [NNRG]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  95,000
+
+44
+STANLEY COLLEGE OF ENGINEERING AND TECHNOLOGY FOR WOMEN [STLW]
+Estd:  2008
+
+Affiliation:  OU
+
+Type: Autonomous
+
+ ABIDS, HYDERABAD
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  85,000
+
+45
+TEEGALA KRISHNA REDDY ENGINEERING COLLEGE [TKEM]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MIRPET, RANGAREDDY
+
+A
+ NBA Accredited
+
+NAAC "B++" Grade
+
+Fee  94,500
+
+46
+SREYAS INSTITUTE OF ENGINEERING AND TECHNOLOGY [SRYS]
+Estd:  2011
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ NAGOLE, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  106,000
+
+47
+NALLA MALLA REDDY ENGINEERING COLLEGE [NREC]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+A
+ NBA Accredited
+
+No NAAC
+
+Fee  50,000
+
+48
+SRI INDU INSTITUTE OF ENGINEERING AND TECHNOLOGY [INDI]
+Estd:  2006
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  95,000
+
+49
+KU COLLEGE OF ENGINEERING AND TECHNOLOGY [KUWL]
+Estd:  2009
+
+Affiliation:  KU
+
+Type: University
+
+ WARANGAL, HANAMKONDA
+
+A
+No NBA
+
+NAAC "A+" Grade
+
+Fee  35,000
+
+50
+BALAJI INSTITUTE OF TECHNOLOGY AND SCIENCE [BITN]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ NARSAMPET, WARANGAL
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  80,400
+
+51
+VIGNAN BHARATI INSTITUTE OF TECHNOLOGY [VBIT]
+Estd:  2004
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  103,200
+
+52
+ACE ENGINEERING COLLEGE [ACEG]
+Estd:  2007
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+A
+ NBA Accredited
+
+No NAAC
+
+Fee  110,000
+
+53
+MARRI LAXMAN REDDY INSTITUTE OF TECHNOLOGY AND MANAGEMENT [MLRS]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ DUNDIGAL, MEDCHAL
+
+A
+ NBA Accredited
+
+No NAAC
+
+Fee  88,500
+
+54
+BHOJREDDY ENGINEERING COLLEGE FOR WOMEN [BREW]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ SAIDABAD, HYDERABAD
+
+A
+No NBA
+
+NAAC "A" Grade
+
+Fee  78,200
+
+55
+SREE DATTHA COLLEGE OF ENGINEERING AND SCIENCE [SDES]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+A
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  101,100
+
+56
+SUMATHI REDDY INSTITUTE OF TECHNOLOGY FOR WOMEN [SRIW]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ HASANPARTHY, HANAMKONDA
+
+A
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  96,800
+
+57
+AVN INSTITUTE OF ENGINEERING TECHNOLOGY [AVNI]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+B+
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  92,000
+
+58
+BHARAT INSTITUTE OF ENGINEERING AND TECHNOLOGY [BIET]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+B+
+ NBA Accredited
+
+NAAC "B++" Grade
+
+Fee  89,000
+
+59
+SAMSKRUTHI COLLEGE OF ENGINEERINGAND TECHNOLOGY [SMSK]
+Estd:  2005
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+B+
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  72,000
+
+60
+ANURAG ENGINEERING COLLGE [ANRK]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KODAD, SURYAPET
+
+B+
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  90,000
+
+61
+MALLA REDDY COLLEGE OF ENGINEERING [MRCE]
+Estd:  2005
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ MYSAMMAGUDA, MEDCHAL
+
+B+
+ NBA Accredited
+
+NAAC "B++" Grade
+
+Fee  76,100
+
+62
+JAYAMUKHI INSTITUTE OF TECHNOLOGY AND SCIENCES [JAYA]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ NARSAMPET, WARANGAL
+
+B+
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  60,000
+
+63
+T K R COLLEGE OF ENGINEERING AND TECHNOLOGY [TKRC]
+Estd:  2002
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MIRPET, RANGAREDDY
+
+B+
+ NBA Accredited
+
+No NAAC
+
+Fee  102,900
+
+64
+ST PETERS ENGINEERING COLLEGE [SPEC]
+Estd:  2007
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MEDCHAL, MEDCHAL
+
+B+
+ NBA Accredited
+
+No NAAC
+
+Fee  96,000
+
+65
+VIGNAN INSTITUTE OF TECHNOLOGY AND SCIENCE [VGNT]
+Estd:  1999
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ DESHMUKHI, YADADRI BHUVANAGIRI
+
+B+
+ NBA Accredited
+
+NAAC "A++" Grade
+
+Fee  123,000
+
+66
+PALLAVI ENGINEERING COLLEGE [PALV]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KUNTLOOR, RANGAREDDY
+
+B+
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  72,000
+
+67
+VIGNANS INSTITUTE OF MANAGEMENT AND TECHNOLOGY FOR WOMEN [VMTW]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+B+
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  104,400
+
+68
+MALLA REDDY ENGINEERING COLLEGE AND MANAGEMENT SCIENCES [MREM]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MEDCHAL, MEDCHAL
+
+B+
+ NBA Accredited
+
+NAAC "B++" Grade
+
+Fee  70,200
+
+69
+NARSIMHA REDDY ENGINEERING COLLEGE [NRCM]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MAISAMMAGUDA, MEDCHAL
+
+B+
+ NBA Accredited
+
+No NAAC
+
+Fee  87,800
+
+70
+NEIL GOGTE INSTITUTE OF TECHNOLOGY [NGIT]
+Estd:  2017
+
+Affiliation:  OU
+
+Type: Private College
+
+ KACHIVANI , MEDCHAL
+
+B+
+ NBA Accredited
+
+No NAAC
+
+Fee  99,200
+
+71
+UNIVERSITY COLLEGE OF ENGINEERING AND TECHNOLOGY FOR WOMEN KU CAMPUS [KUEWSF]
+Estd:  1976
+
+Affiliation:  KU
+
+Type: Government
+
+ WARANGAL, HANAMKONDA
+
+B+
+No NBA
+
+NAAC "B++" Grade
+
+Fee  70,000
+
+72
+METHODIST COLLEGE OF ENGINEERING AND TECHNOLOGY [METH]
+Estd:  2008
+
+Affiliation:  OU
+
+Type: Autonomous
+
+ ABIDS, HYDERABAD
+
+B+
+No NBA
+
+NAAC "A+" Grade
+
+Fee  78,000
+
+73
+SIDDHARTHA INSTITUTE OF ENGINEERING AND TECHNOLOGY [SIEI]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+B+
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  68,000
+
+74
+JOGINPALLY B R ENGINEERING COLLEGE [JOGI]
+Estd:  2002
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ YENKAPALLY, RANGAREDDY
+
+B+
+No NBA
+
+NAAC "A+" Grade
+
+Fee  89,000
+
+75
+JNTUH UNIVERSITY COLLEGE OF ENGINEERING MANTHANI [JNTM]
+Estd:  2010
+
+Affiliation:  JNTUH
+
+Type: Government
+
+ MANTHANI, PEDDAPALLI
+
+B+
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+76
+VAAGDEVI ENGINEERING COLLEGE [VGWL]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ WARANGAL, HANAMKONDA
+
+B+
+No NBA
+
+NAAC "A+" Grade
+
+Fee  58,000
+
+77
+JYOTHISHMATHI INSTITUTE OF TECHNOLOGY AND SCIENCE [JMTS]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KARIMNAGAR, KARIMNAGAR
+
+B+
+ NBA Accredited
+
+NAAC "A" Grade
+
+Fee  72,700
+
+78
+SPHOORTHY ENGINEERING COLLEGE [SPHN]
+Estd:  2004
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ NADERGUL, RANGAREDDY
+
+B+
+No NBA
+
+NAAC "A" Grade
+
+Fee  95,000
+
+79
+SIDDHARTHA INSTITUTE OF TECHNOLOGY AND SCIENCES [SISG]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+B+
+No NBA
+
+NAAC "A+" Grade
+
+Fee  94,700
+
+80
+AVANTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY [AVIH]
+Estd:  1992
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ HAYATHNAGAR, RANGAREDDY
+
+B+
+No NBA
+
+NAAC "A" Grade
+
+Fee  72,500
+
+81
+LORDS INSTITUTE OF ENGINEERING AND TECHNOLOGY [LRDS]
+Estd:  2003
+
+Affiliation:  OU
+
+Type: Autonomous
+
+ HIMAYATSAG, RANGAREDDY
+
+B+
+ NBA Accredited
+
+No NAAC
+
+Fee  100,100
+
+82
+JNTUH UNIVERSITY COLLEGE OF ENGINEERING SULTANPUR [JNTS]
+Estd:  2012
+
+Affiliation:  JNTUH
+
+Type: Government
+
+ SULTANPUR, SANGAREDDY
+
+B+
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+83
+MGU COLLEGE OF ENGINEERING AND TECHNOLOGY [MGUNSF]
+Estd:  2013
+
+Affiliation:  MGUN
+
+Type: Government (SF)
+
+ NALGONDA, NALGONDA
+
+B+
+No NBA
+
+NAAC "B+" Grade
+
+Fee  57,200
+
+84
+SREE CHAITANYA COLLEGE OF ENGINEERING [CHTN]
+Estd:  2004
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KARIMNAGAR, KARIMNAGAR
+
+B+
+No NBA
+
+NAAC "A" Grade
+
+Fee  71,400
+
+85
+GLOBAL INSTITUTE OF ENGINEERING AND TECHNOLOGY [GLOB]
+Estd:  2006
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ CHILKUR, RANGAREDDY
+
+B+
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  70,000
+
+86
+CHRISTU JYOTHI INSTITUTE OF TECHNOLOGY AND SCI [CJIT]
+Estd:  1998
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ JANGAON, JANGAON
+
+B
+ NBA Accredited
+
+NAAC "B++" Grade
+
+Fee  62,000
+
+87
+SHADAN COLLEGE OF ENGINEERING AND TECHNOLOGY [SCET]
+Estd:  1995
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ PEERANCHERU, RANGAREDDY
+
+B
+ NBA Accredited
+
+NAAC "A+" Grade
+
+Fee  50,000
+
+88
+MAHAVEER INSTITUTE OF SCIENCE AND TECHNOLOGY [MHVR]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ BANDLAGUDA, HYDERABAD
+
+B
+No NBA
+
+NAAC "A" Grade
+
+Fee  45,000
+
+89
+SWAMI VIVEKANANDA INSTITUTE OF TECHNOLOGY [SVIT]
+Estd:  2004
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ SECUNDERABAD, HYDERABAD
+
+B
+No NBA
+
+NAAC "A" Grade
+
+Fee  79,350
+
+90
+EARTH SCIENCES UNIVERSITY OF TELANGANA (FORMERLY K U COLLEGE OF ENGG KOTHAGUDEM) [ESUT]
+Estd:  1994
+
+Affiliation:  ESUNIVTG
+
+Type: University
+
+ KOTHAGUDEM, BHADRADRI KOTHAGUDEM
+
+B
+No NBA
+
+No NAAC
+
+Fee  35,000
+
+91
+SWARNA BHARATHI INSTITUTE OF SCIENCE AND TECHNOLOGY [SBIT]
+Estd:  2003
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KHAMMAM, KHAMMAM
+
+B
+No NBA
+
+NAAC "A+" Grade
+
+Fee  66,700
+
+92
+VAAGESHWARI COLLEGE OF ENGINEERING [VGSE]
+Estd:  2003
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KARIMNAGAR, KARIMNAGAR
+
+B
+No NBA
+
+NAAC "A+" Grade
+
+Fee  59,700
+
+93
+MEGHA INSTITUTE OF ENGINEERING AND TECHNOLOGY FOR WOMEN [MGHA]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+B
+No NBA
+
+NAAC "A" Grade
+
+Fee  66,400
+
+94
+INDUR INSTITUTE OF ENGINEERING AND TECHNOLOGY [IITT]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ SIDDIPET, SIDDIPET
+
+B
+No NBA
+
+No NAAC
+
+Fee  62,000
+
+95
+KASIREDDY NARAYANAREDDY COLLEGE OF ENGINEERING & RESEARCH [KNRR]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ HAYATHNAGAR, RANGAREDDY
+
+B
+No NBA
+
+NAAC "A+" Grade
+
+Fee  81,300
+
+96
+SREE DATTHA GROUP OF INSTITUTIONS [SDGI]
+Estd:  2011
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+B
+No NBA
+
+NAAC "A+" Grade
+
+Fee  88,100
+
+97
+PALAMUR UNIVERSITY [PLMU]
+Estd:  2008
+
+Affiliation:  PLMU
+
+Type: University
+
+ Unknown, MAHABUBNAGAR
+
+B
+No NBA
+
+NAAC "B" Grade
+
+N/A
+
+98
+HOLY MARY INSTITUTE OF TECHNOLOGY SCIENCE [HOLY]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KEESARA, MEDCHAL
+
+B
+No NBA
+
+No NAAC
+
+Fee  66,000
+
+99
+TALLA PADMAVATHI COLLEGE OF ENGINEERING [TPCE]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KAZIPET, HANAMKONDA
+
+B
+No NBA
+
+NAAC "B+" Grade
+
+Fee  75,000
+
+EARTH SCIENCES UNIVERSITY OF TELANGANA (FORMERLY K U COLLEGE OF ENGG KOTHAGUDEM)- SELF FINANCE [ESUTSF]
+Estd:  2012
+
+Affiliation:  ESUNIVTG
+
+Type: Government (SF)
+
+ KOTHAGUDEM, BHADRADRI KOTHAGUDEM
+
+B
+No NBA
+
+No NAAC
+
+Fee  70,000
+
+100
+SVS GROUP OF INSTITUTIONS - SVS INSTITUTE OF TECHNOLOGY [SVSE]
+Estd:  1986
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ HANAMKONDA, HANAMKONDA
+
+B
+No NBA
+
+NAAC "A" Grade
+
+Fee  72,200
+
+101
+JAYA PRAKASH NARAYAN COLLEGE OF ENGINEERING [JPNE]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MAHABUBNAGAR, MAHABUBNAGAR
+
+B
+No NBA
+
+NAAC "B++" Grade
+
+Fee  69,000
+
+102
+ANNAMACHARYA INSTITUTE OF TECHNOLOGY AND SCIENCE [AITH]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ HAYATHNAGAR, RANGAREDDY
+
+B
+No NBA
+
+NAAC "B+" Grade
+
+Fee  75,000
+
+103
+AURORAS TECHNOLOGICAL, RESEARCH INSTITUTE [AURG]
+Estd:  1999
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ GHATKESAR, MEDCHAL
+
+B
+No NBA
+
+NAAC "B++" Grade
+
+Fee  67,800
+
+104
+MOTHER TERESA INSTITUTE OF SCIENCE AND TECHNOLOGY [MOTK]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ SATHUPALLY, KHAMMAM
+
+B
+No NBA
+
+NAAC "A+" Grade
+
+Fee  75,000
+
+105
+PRINCETON INSTITUTE OF ENGINEERING TECHNOLOGY FOR WOMEN [PETW]
+Estd:  2002
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ GHATKESAR, MEDCHAL
+
+B
+No NBA
+
+NAAC "A" Grade
+
+Fee  66,600
+
+106
+VISVESVARAYA COLLEGE OF ENGINEERING AND TECHNOLOGY [VCET]
+Estd:  2007
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+B
+No NBA
+
+NAAC "A" Grade
+
+Fee  64,000
+
+107
+AAR MAHAVEER ENGINEERING COLLEGE [AARM]
+Estd:  2010
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ BANDLAGUDA, HYDERABAD
+
+B
+No NBA
+
+No NAAC
+
+Fee  45,000
+
+108
+JNTUH UNIVERSITY COLLEGE OF ENGINEERING RAJANNA SIRICILLA [JNTR]
+Estd:  2021
+
+Affiliation:  JNTUH
+
+Type: Government
+
+ AGRAHARAM , RAJANNA SIRICILLA
+
+B
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+109
+JNTUH UNIVERSITY COLLEGE OF ENGINEERING WANAPARTHY [JNWN]
+Estd:  2022
+
+Affiliation:  JNTUH
+
+Type: Government
+
+ NARSINGAYAPALLY VILLAGE, WANAPARTHY
+
+B
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+110
+JNTUH UNIVERSITY COLLEGE OF ENGINEERING MAHABUBABAD [JNMB]
+Estd:  2023
+
+Affiliation:  JNTUH
+
+Type: Government
+
+ MAHABUBABAD, MAHABUBABAD
+
+B
+ NBA Accredited
+
+No NAAC
+
+Fee  50,000
+
+111
+SCIENT INSTITUTE OF TECHNOLOGY [SNTI]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+C+
+No NBA
+
+NAAC "A+" Grade
+
+Fee  76,000
+
+112
+ANUBOSE INSTITUTE OF TECHNOLOGY [BOSE]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ PALONCHA, BHADRADRI KOTHAGUDEM
+
+C+
+No NBA
+
+NAAC "B++" Grade
+
+Fee  108,100
+
+113
+GATE INSTITUTE OF TECHNOLOGY AND SCIENCES [GATE]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KODAD, SURYAPET
+
+C+
+No NBA
+
+No NAAC
+
+Fee  100,000
+
+114
+BRILLIANT GRAMMAR SCHOOL EDUCATIONAL SOCIETY GROUP OF INSTITUTIONS [BRIG]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ HAYATHNAGAR, RANGAREDDY
+
+C+
+No NBA
+
+NAAC "A" Grade
+
+Fee  78,700
+
+115
+BRILLIANT INSTITUTE OF ENGINEERING AND TECHNOLOGY [BRIL]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ HAYATHNAGAR, RANGAREDDY
+
+C+
+No NBA
+
+NAAC "A" Grade
+
+Fee  77,200
+
+116
+SREE CHAITANYA INSTITUTE OF TECHNOLOGY SCIENCES [CHTS]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KARIMNAGAR, KARIMNAGAR
+
+C+
+No NBA
+
+NAAC "B++" Grade
+
+Fee  68,200
+
+117
+NAWAB SHAH ALAM KHAN COLLEGE OF ENGINEERING AND TECHNOLOGY [NAWB]
+Estd:  2008
+
+Affiliation:  OU
+
+Type: Autonomous
+
+ NEW MALAKPET, HYDERABAD
+
+C+
+No NBA
+
+NAAC "A" Grade
+
+Fee  60,000
+
+118
+Ramappa Engineering College [AURH]
+Estd:  1999
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ SHAYAMPET, HANAMKONDA
+
+C+
+No NBA
+
+No NAAC
+
+Fee  35,000
+
+119
+SAI SPURTHI INSTITUTE OF TECHNOLOGY [SAIS]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ SATHUPALLY, KHAMMAM
+
+C+
+No NBA
+
+NAAC "B++" Grade
+
+Fee  70,000
+
+120
+KSHATRIYA COLLEGE OF ENGINEERING [KCEA]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ ARMOOR, NIZAMABAD
+
+C+
+No NBA
+
+NAAC "A" Grade
+
+Fee  55,000
+
+121
+ISL ENGINEERING COLLEGE [ISLC]
+Estd:  2008
+
+Affiliation:  OU
+
+Type: Autonomous
+
+ BANDLAGUDA, HYDERABAD
+
+C+
+No NBA
+
+NAAC "A" Grade
+
+Fee  69,100
+
+122
+Sri Chaitanya Institute of Technology & Research (formerly KHAMMAM INSTITUTE OF TECHNOLOGY AND SCIENCE) [SCIT]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KHAMMAM, KHAMMAM
+
+C+
+No NBA
+
+NAAC "B+" Grade
+
+Fee  68,500
+
+123
+BHASKAR ENGINEERING COLLEGE [BSKR]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ YENKAPALLY, RANGAREDDY
+
+C+
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+124
+RISHI MS INSTITUTE OF ENGINEERING AND TECHNOLOGY FOR WOMEN [RITW]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KUKATPALLY, MEDCHAL
+
+C+
+No NBA
+
+NAAC "B++" Grade
+
+Fee  69,300
+
+125
+KAKATIYA INSTITUTE OF TECHNOLOGY SCIENCE FOR WOMEN [KITW]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ NIZAMABAD, NIZAMABAD
+
+C+
+No NBA
+
+No NAAC
+
+Fee  55,000
+
+126
+ELLENKI COLLEGE OF ENGINEERING AND TECHNOLOGY [ELEN]
+Estd:  1999
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ PATANCHERU, SANGAREDDY
+
+C+
+No NBA
+
+NAAC "B+" Grade
+
+Fee  66,000
+
+127
+DECCAN COLLEGE OF ENGINEERING AND TECHNOLOGY [DCET]
+Estd:  1984
+
+Affiliation:  OU
+
+Type: Private College
+
+ DARUSSALAM, HYDERABAD
+
+C+
+No NBA
+
+No NAAC
+
+Fee  76,000
+
+128
+SREE KAVITHA ENGINEERING COLLEGE [SKEC]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KAREPALLY, KHAMMAM
+
+C+
+ NBA Accredited
+
+No NAAC
+
+Fee  63,000
+
+129
+ST MARYS ENGINEERING COLLEGE [SMCD]
+Estd:  2007
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ DESHMUKHI, YADADRI BHUVANAGIRI
+
+C+
+No NBA
+
+NAAC "A" Grade
+
+Fee  50,000
+
+130
+GOKARAJU LAILAVATHI WOMENS ENGINEERING COLLEGE [GLWC]
+Estd:  2021
+
+Affiliation:  OU
+
+Type: Private College
+
+ BACHUPALLY, MEDCHAL
+
+C+
+No NBA
+
+No NAAC
+
+Fee  70,000
+
+131
+DR VRK WOMENS COLLEGE OF ENGINEERING AND TECHNOLOGY [VRKW]
+Estd:  2002
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ MOINABAD, RANGAREDDY
+
+C+
+No NBA
+
+NAAC "A" Grade
+
+Fee  45,000
+
+132
+BOMMA INSTITUTE OF TECHNOLOGY AND SCIENCE [BOMA]
+Estd:  2006
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KHAMMAM, KHAMMAM
+
+C+
+No NBA
+
+No NAAC
+
+Fee  63,000
+
+133
+KODADA INSTITUTE OF TECHNOLOGY AND SCIENCE FOR WOMEN [KDDW]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KODADA, SURYAPET
+
+C+
+No NBA
+
+No NAAC
+
+Fee  94,000
+
+134
+MINA INSTITUTE OF ENGINEERING AND TECHNOLOGY FOR WOMEN [MINA]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ MIRYALAGUDA, NALGONDA
+
+C+
+No NBA
+
+No NAAC
+
+Fee  61,900
+
+135
+KPRIT COLLEGE OF ENGINEERING (AUTONOMOUS) [KPRC]
+Estd:  2010
+
+Affiliation:  OU
+
+Type: Autonomous
+
+ GHATKESAR, MEDCHAL
+
+C+
+No NBA
+
+No NAAC
+
+Fee  45,000
+
+136
+ST MARYS GROUP OF INSTITUTIONS [SMED]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ DESHMUKHI, YADADRI BHUVANAGIRI
+
+C+
+No NBA
+
+NAAC "A" Grade
+
+Fee  60,000
+
+137
+SANA ENGINEERING COLLEGE [SANA]
+Estd:  2003
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KODAD, SURYAPET
+
+C+
+No NBA
+
+NAAC "B+" Grade
+
+Fee  67,000
+
+138
+KLR COLLEGE OF ENGINEERING AND TECHNOLOGY PALONCHA [KLRT]
+Estd:  2003
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ PALONCHA, BHADRADRI KOTHAGUDEM
+
+C+
+No NBA
+
+No NAAC
+
+Fee  63,700
+
+139
+PRIYADARSHINI INSTITUTE OF SCIENCE & TECHNOLOGY FOR WOMEN [PRIW]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KHAMMAM, KHAMMAM
+
+C+
+No NBA
+
+NAAC "B" Grade
+
+Fee  60,000
+
+140
+VIJAYA ENGINEERING COLLEGE [VJYA]
+Estd:  2000
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KHAMMAM, KHAMMAM
+
+C+
+No NBA
+
+No NAAC
+
+Fee  75,000
+
+141
+SHADAN WOMENS COLLEGE OF ENGINEERING AND TECHNOLOGY [SWET]
+Estd:  2002
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ KHAIRTABAD, HYDERABAD
+
+C+
+No NBA
+
+NAAC "B++" Grade
+
+Fee  55,000
+
+142
+ARJUN COLLEGE OF TECHNOLOGY AND SCIENCE [ARJN]
+Estd:  2006
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ BATASINGAR, RANGAREDDY
+
+C+
+No NBA
+
+NAAC "B++" Grade
+
+Fee  45,000
+
+143
+TRINITY COLLEGE OF ENGINEERING AND TECHNOLOGY PEDDAPALLY [TCEK]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Autonomous
+
+ PEDDAPALLY, PEDDAPALLI
+
+C+
+No NBA
+
+NAAC "B++" Grade
+
+Fee  65,000
+
+144
+KESHAV MEMORIAL ENGINEERING COLLEGE [KMEC]
+Estd:  2021
+
+Affiliation:  OU
+
+Type: Private College
+
+ KACHWANISI, MEDCHAL
+
+C+
+No NBA
+
+No NAAC
+
+Fee  70,000
+
+145
+DRK INSTITUTE OF SCIENCE AND TECHNOLOGY [DRKI]
+Estd:  2004
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ BOWRAMPET, MEDCHAL
+
+C+
+No NBA
+
+No NAAC
+
+Fee  65,000
+
+146
+JAYAPRAKASH NARAYAN ENGINEERING COLLEGE (formerly Crimson Institute of Technology) [JPNH]
+Estd:  2005
+
+Affiliation:  N/A
+
+Type: Private College
+
+ BANDLAGUDA, HYDERABAD
+
+C+
+No NBA
+
+NAAC "B++" Grade
+
+Fee  45,000
+
+147
+VMR PRADEEP KUMAR INST OF ENGG & TECH [VMRH]
+Estd:  N/A
+
+Affiliation:  KU
+
+Type: Private College
+
+ RAMPUR, HANAMKONDA
+
+C+
+No NBA
+
+No NAAC
+
+Fee  45,000
+
+148
+AVANTHIS SCIENTIFIC TECHNOLOGY AND RESEARCH ACADEMY [ASRA]
+Estd:  1991
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ HAYATHNAGAR, RANGAREDDY
+
+C+
+No NBA
+
+No NAAC
+
+Fee  69,200
+
+149
+SRI VISHWESWARAYA INSTITUTE OF TECHNOLOGY AND SCIENCE [VITS]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ MAHABUBNAGAR, MAHABUBNAGAR
+
+C+
+No NBA
+
+No NAAC
+
+Fee  63,000
+
+150
+VIJAYA RURAL ENGINEERING COLLEGE [VREC]
+Estd:  1997
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ NIZAMABAD, NIZAMABAD
+
+C
+No NBA
+
+No NAAC
+
+Fee  45,600
+
+151
+ABDUL KALAM INSTITUTE OF TECHNOLOGY AND SCIENCE [AKIT]
+Estd:  2007
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KOTHAGUDEM, BHADRADRI KOTHAGUDEM
+
+C
+No NBA
+
+No NAAC
+
+Fee  65,000
+
+152
+SRI VENKATESWARA ENGINEERING COLLEGE [SVES]
+Estd:  1998
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ SURYAPETA, SURYAPET
+
+C
+No NBA
+
+No NAAC
+
+Fee  60,000
+
+153
+MADHIRA INSTITUTE OF TECHNOLOGY AND SCIENCE [MDRK]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KODAD, SURYAPET
+
+C
+No NBA
+
+No NAAC
+
+Fee  72,000
+
+154
+SRI CHAITANYA COLLEGE OF ENGINEERING AND TECHNOLOGY [CHET]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ IBRAHIMPATNAM, RANGAREDDY
+
+C
+No NBA
+
+No NAAC
+
+Fee  60,000
+
+155
+WARANGAL INSTITUTE OF TECHNOLOGY SCIENCE [WITS]
+Estd:  2009
+
+Affiliation:  KU
+
+Type: Private College
+
+ WARANGAL, HANAMKONDA
+
+C
+No NBA
+
+No NAAC
+
+Fee  45,000
+
+156
+JNTUH UNIVERSITY COLLEGE OF ENGINEERING PALAIR [JNPL]
+Estd:  2023
+
+Affiliation:  JNTUH
+
+Type: Government
+
+ PALAIR, KHAMMAM
+
+C
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+157
+GOVERNMENT ENGINEERING COLLEGE KOSGI [KSGI]
+Estd:  2024
+
+Affiliation:  JNTUH
+
+Type: Government
+
+ KOSGI, NARAYANPET
+
+C
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+158
+MOTHER THERESA COLLEGE OF ENGINEERING AND TECHNOLOGY [MTEC]
+Estd:  1999
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ PEDDAPALLY, PEDDAPALLI
+
+C
+No NBA
+
+NAAC "B+" Grade
+
+Fee  84,700
+
+159
+TRINITY COLLEGE OF ENGINEERING AND TECHNOLOGY [TCTK]
+Estd:  2008
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KARIMNAGAR, KARIMNAGAR
+
+C
+No NBA
+
+NAAC "B++" Grade
+
+Fee  65,000
+
+160
+AIZZA COLLEGE OF ENGINEERING AND TECHNOLOGY [AIZA]
+Estd:  1999
+
+Affiliation:  KU
+
+Type: Private College
+
+ MANCHERIAL, MANCHERIAL
+
+C
+No NBA
+
+No NAAC
+
+Fee  45,000
+
+161
+VATHSALYA INSTITUTE OF SCIENCE AND TECHNOLOGY [VISA]
+Estd:  2001
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ BHONGIR, YADADRI BHUVANAGIRI
+
+C
+No NBA
+
+No NAAC
+
+Fee  62,000
+
+162
+CSI WESLEY INSTITUTE OF TECHNOLOGY AND SCIENCES [WESL]
+Estd:  2015
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ SECUNDERAB, HYDERABAD
+
+C
+No NBA
+
+No NAAC
+
+Fee  45,000
+
+163
+DARIPALLY ANANTHA RAMULU COLLEGE OF ENGINEERING AND TECHNOLOGY [DARE]
+Estd:  2007
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ KHAMMAM, KHAMMAM
+
+C
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+164
+MUMTAZ COLLEGE OF ENGINEERING & TECHNOLOGY [MMTZ]
+Estd:  2009
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ HYDERABAD, HYDERABAD
+
+C
+No NBA
+
+No NAAC
+
+Fee  45,000
+
+JNTUH UNIVERSITY COLLEGE OF ENGINEERING SULTANPUR - SF [JNTSSF]
+Estd:  N/A
+
+Affiliation:  JNTUH
+
+Type: University
+
+ SULTANPUR, SANGAREDDY
+
+D
+No NBA
+
+No NAAC
+
+Fee  100,000
+
+165
+COLLEGE OF AGRICULTURAL ENGG [CASR]
+Estd:  N/A
+
+Affiliation:  PJTAU
+
+Type: University
+
+ SANGAREDDY, SANGAREDDY
+
+D
+No NBA
+
+No NAAC
+
+Fee  80,720
+
+166
+COLLEGE OF FOOD SCIENCE AND TECHNOLOGY RUDRUR [CFSR]
+Estd:  N/A
+
+Affiliation:  PJTAU
+
+Type: Government
+
+ RUDRUR, NIZAMABAD
+
+D
+No NBA
+
+No NAAC
+
+Fee  80,720
+
+167
+JNAFAU SCHOOL OF PLANNING AND ARCH - SELF FINANCE [JNPASF]
+Estd:  N/A
+
+Affiliation:  JNAFAU
+
+Type: Government (SF)
+
+ MASABTANK, HYDERABAD
+
+D
+No NBA
+
+No NAAC
+
+Fee  65,000
+
+168
+KESHAV MEMORIAL COLLEGE OF ENGINEERING [KMCE]
+Estd:  N/A
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ IBRAHIMPATAN, RANGAREDDY
+
+D
+No NBA
+
+No NAAC
+
+Fee  62,000
+
+169
+UNIVERSITY COLLEGE OF ENGINEERING PALAMURU UNIVERSITY [PUCE]
+Estd:  N/A
+
+Affiliation:  PLMU
+
+Type: University
+
+ MAHABUBNAGAR, MAHABUBNAGAR
+
+D
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+170
+UNIVERSITY COLLEGE OF ENGG HUSNABAD SATAVAHANA UNIV [SUCE]
+Estd:  N/A
+
+Affiliation:  SHVU
+
+Type: University
+
+ HUSNABAD, SIDDIPET
+
+D
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+171
+UNIVERSITY COLLEGE OF ENGINEERING NIZAMABAD [TUCE]
+Estd:  N/A
+
+Affiliation:  TU
+
+Type: University
+
+ NIZAMABAD, NIZAMABAD
+
+D
+No NBA
+
+No NAAC
+
+Fee  50,000
+
+172
+COLLEGE OF DAIRY TECHNOLOGY [CDTK]
+Estd:  N/A
+
+Affiliation:  PVNRTVU
+
+Type: University
+
+ KAMAREDDY, KAMAREDDY
+
+D
+No NBA
+
+No NAAC
+
+Fee  45,950
+
+173
+TRR COLLEGE OF TECHNOLOGY [TRRM]
+Estd:  N/A
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ MEERPET, RANGAREDDY
+
+D
+No NBA
+
+No NAAC
+
+Fee  45,000
+
+174
+AURORA SCIENTIFIC AND TECH RESEARCH ACADEMY [AURC]
+Estd:  N/A
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ HYDERABAD, HYDERABAD
+
+D
+No NBA
+
+No NAAC
+
+Fee  35,000
+
+175
+AURORAS TECHNOLOGICAL AND MANAGEMENT ACADEMY [AURK]
+Estd:  N/A
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ PARVATHAPUR, MEDCHAL
+
+D
+No NBA
+
+No NAAC
+
+Fee  35,000
+
+176
+AZAD COLLEGE OF ENGINEERING AND TECHNOLOGY [AZAD]
+Estd:  N/A
+
+Affiliation:  JNTUH
+
+Type: Private College
+
+ MOINABAD, RANGAREDDY
+
+D
+No NBA
+
+No NAAC
+
+Fee  35,000
+
+177
+G K INSTITUTE OF ENGG AND TECH [GKEM]
+Estd:  N/A
+
+Affiliation:  JNTU
+
+Type: Private College
+
+ MAHABUBNAGAR, MAHABUBNAGAR
+
+D
+No NBA
+
+No NAAC
+
+Fee  35,000
