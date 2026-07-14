@@ -2,7 +2,7 @@
 
 import React, { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { User, Award, School, MapPin, BookOpen, Search, ChevronDown, Check, ListFilter } from "lucide-react";
+import { User, Award, MapPin, BookOpen, Search, ChevronDown, Check, ListFilter } from "lucide-react";
 
 interface FormProps {
   districts: string[];
@@ -116,12 +116,12 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
     >
       <form onSubmit={handleSubmit} className="glass-card rounded-2xl p-6 md:p-10 border border-white/8 shadow-2xl relative overflow-hidden">
         {/* Subtle white/gray light blur glow inside card */}
-        <div className="absolute -top-32 -right-32 w-64 h-64 bg-white/5 rounded-full blur-3xl pointer-events-none" />
-        <div className="absolute -bottom-32 -left-32 w-64 h-64 bg-white/5 rounded-full blur-3xl pointer-events-none" />
+        <div className="absolute -top-32 -right-32 w-64 h-64 bg-white/3 rounded-full blur-3xl pointer-events-none" />
+        <div className="absolute -bottom-32 -left-32 w-64 h-64 bg-white/3 rounded-full blur-3xl pointer-events-none" />
 
-        {/* Customized card header with green bullet */}
+        {/* Customized card header with white bullet */}
         <div className="flex items-center gap-2 mb-8 border-b border-white/5 pb-5">
-          <span className="h-2 w-2 rounded-full bg-[#84CC16] animate-pulse" />
+          <span className="h-2 w-2 rounded-full bg-white animate-pulse" />
           <h2 className="text-xs font-bold text-white uppercase tracking-wider">
             Counselling Preferences
           </h2>
@@ -131,7 +131,7 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
           {/* Name Field */}
           <div className="flex flex-col gap-2">
             <label className="text-sm font-medium text-white flex items-center gap-1.5">
-              <User className="h-4 w-4 text-subtext" /> Student name <span className="text-subtext font-normal text-xs">(optional)</span>
+              <User className="h-4 w-4 text-subtext" /> Student name
             </label>
             <input
               type="text"
@@ -139,15 +139,15 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
               value={name}
               onChange={(e) => setName(e.target.value)}
               className={`w-full h-11 bg-white/5 border ${
-                name.trim() !== "" ? "border-accent/40 bg-accent/[0.02]" : "border-white/8"
-              } rounded-xl px-4 text-white placeholder-subtext focus:outline-none focus:border-accent/50 focus:ring-1 focus:ring-accent/10 transition-all text-sm font-medium`}
+                name.trim() !== "" ? "border-white/40 bg-white/[0.01]" : "border-white/8"
+              } rounded-xl px-4 text-white placeholder-subtext focus:outline-none focus:border-white/60 focus:ring-1 focus:ring-white/10 transition-all text-sm font-medium`}
             />
           </div>
 
           {/* Rank Field */}
           <div className="flex flex-col gap-2">
             <label className="text-sm font-medium text-white flex items-center gap-1.5">
-              <Award className="h-4 w-4 text-subtext" /> EAPCET rank <span className="text-[#84CC16]">*</span>
+              <Award className="h-4 w-4 text-subtext" /> EAPCET rank <span className="text-white/70">*</span>
             </label>
             <input
               type="number"
@@ -162,9 +162,9 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
                 errors.rank
                   ? "border-red-500/40"
                   : rank !== ""
-                  ? "border-accent/40 bg-accent/[0.02]"
+                  ? "border-white/40 bg-white/[0.01]"
                   : "border-white/8"
-              } rounded-xl px-4 text-white placeholder-subtext focus:outline-none focus:border-accent/50 focus:ring-1 focus:ring-accent/10 transition-all text-sm font-medium`}
+              } rounded-xl px-4 text-white placeholder-subtext focus:outline-none focus:border-white/60 focus:ring-1 focus:ring-white/10 transition-all text-sm font-medium`}
             />
             {errors.rank && (
               <span className="text-xs text-red-400 mt-1 font-semibold">{errors.rank}</span>
@@ -181,11 +181,11 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
                 value={category}
                 onChange={(e) => handleCategoryChange(e.target.value)}
                 className={`w-full h-11 bg-white/5 border ${
-                  category !== "OC" ? "border-accent/40 bg-accent/[0.02]" : "border-white/8"
-                } rounded-xl px-4 text-white focus:outline-none focus:border-accent/50 transition-all text-sm cursor-pointer appearance-none font-medium`}
+                  category !== "OC" ? "border-white/40 bg-white/[0.01]" : "border-white/8"
+                } rounded-xl px-4 text-white focus:outline-none focus:border-white/60 transition-all text-sm cursor-pointer appearance-none font-medium`}
               >
                 {["OC", "EWS", "BC-A", "BC-B", "BC-C", "BC-D", "BC-E", "SC", "ST"].map((cat) => (
-                  <option key={cat} value={cat} className="bg-bg-dark text-white">
+                  <option key={cat} value={cat} className="bg-[#111111] text-white">
                     {cat}
                   </option>
                 ))}
@@ -207,7 +207,7 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
                   onClick={() => setGender(g)}
                   className={`flex-1 flex items-center justify-center rounded-lg text-sm font-semibold transition-all cursor-pointer border ${
                     gender === g
-                      ? "bg-accent/10 border-accent/40 text-accent shadow-sm"
+                      ? "bg-white text-[#111111] border-white shadow-sm font-extrabold"
                       : "border-transparent text-subtext hover:text-white"
                   }`}
                 >
@@ -229,9 +229,9 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
                 type="button"
                 key={type}
                 onClick={() => setCollegeType(type)}
-                className={`py-2 px-3 rounded-xl border text-xs font-semibold tracking-wide transition-all cursor-pointer ${
+                className={`py-2 px-3 rounded-xl border text-xs font-bold tracking-wide transition-all cursor-pointer ${
                   collegeType === type
-                    ? "bg-accent/10 border-accent/40 text-accent font-bold"
+                    ? "bg-white border-white text-[#111111] font-extrabold shadow-sm"
                     : "bg-white/5 border-white/8 text-subtext hover:border-white/15 hover:text-white"
                 }`}
               >
@@ -252,12 +252,12 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
                 value={district}
                 onChange={(e) => setDistrict(e.target.value)}
                 className={`w-full h-11 bg-white/5 border ${
-                  district !== "Any" ? "border-accent/40 bg-accent/[0.02]" : "border-white/8"
-                } rounded-xl px-4 text-white focus:outline-none focus:border-accent/50 transition-all text-sm cursor-pointer appearance-none font-medium`}
+                  district !== "Any" ? "border-white/40 bg-white/[0.01]" : "border-white/8"
+                } rounded-xl px-4 text-white focus:outline-none focus:border-white/60 transition-all text-sm cursor-pointer appearance-none font-medium`}
               >
-                <option value="Any" className="bg-bg-dark text-white">Any district</option>
+                <option value="Any" className="bg-[#111111] text-white">Any district</option>
                 {districts.map((dist) => (
-                  <option key={dist} value={dist} className="bg-bg-dark text-white">
+                  <option key={dist} value={dist} className="bg-[#111111] text-white">
                     {DISTRICT_NAMES[dist] || dist} ({dist})
                   </option>
                 ))}
@@ -277,8 +277,8 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
               type="button"
               onClick={() => setCourseOpen(true)}
               className={`w-full h-11 bg-white/5 border ${
-                course !== "Any" ? "border-accent/40 bg-accent/[0.02]" : "border-white/8"
-              } rounded-xl px-4 text-white text-sm font-medium text-left flex items-center justify-between cursor-pointer focus:outline-none focus:border-accent/50 transition-all`}
+                course !== "Any" ? "border-white/40 bg-white/[0.01]" : "border-white/8"
+              } rounded-xl px-4 text-white text-sm font-medium text-left flex items-center justify-between cursor-pointer focus:outline-none focus:border-white/60 transition-all`}
             >
               <span className="truncate">{selectedCourseLabel}</span>
               <ChevronDown className="h-4 w-4 text-subtext shrink-0" />
@@ -330,7 +330,7 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
                         className="w-full text-left px-4 py-2 hover:bg-white/5 text-xs font-semibold text-white flex items-center justify-between cursor-pointer transition-colors"
                       >
                         <span>Any course</span>
-                        {course === "Any" && <Check className="h-3.5 w-3.5 text-accent" />}
+                        {course === "Any" && <Check className="h-3.5 w-3.5 text-white" />}
                       </button>
 
                       {filteredCourses.length > 0 ? (
@@ -348,7 +348,7 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
                             <span className="truncate max-w-[90%]">
                               {c.code} - <span className="text-subtext font-normal">{c.name.split(" (")[0]}</span>
                             </span>
-                            {course === c.code && <Check className="h-3.5 w-3.5 text-accent" />}
+                            {course === c.code && <Check className="h-3.5 w-3.5 text-white" />}
                           </button>
                         ))
                       ) : (
@@ -377,11 +377,11 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
                 onClick={() => setPreferenceMode(mode)}
                 className={`py-3 px-4 rounded-xl border text-sm font-semibold transition-all flex items-center justify-center gap-2 cursor-pointer ${
                   preferenceMode === mode
-                    ? "bg-accent/10 border-accent/40 text-accent font-bold"
+                    ? "bg-white text-[#111111] border-white font-extrabold shadow-sm"
                     : "bg-white/5 border-white/8 text-subtext hover:border-white/15 hover:text-white"
                 }`}
               >
-                <span className={`w-2 h-2 rounded-full ${preferenceMode === mode ? 'bg-accent' : 'bg-subtext/30'}`} />
+                <span className={`w-2 h-2 rounded-full ${preferenceMode === mode ? 'bg-[#111111]' : 'bg-subtext/30'}`} />
                 {mode}
               </button>
             ))}
@@ -391,9 +391,9 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
         {/* Submit Options Button ("Get My List", using ListFilter icon) */}
         <button
           type="submit"
-          className="w-full h-12 bg-accent text-bg-dark font-bold text-sm tracking-wide rounded-xl transition-all shadow-md hover:bg-accent/90 active:scale-[0.99] flex items-center justify-center gap-2 cursor-pointer mt-4"
+          className="w-full h-12 bg-white border border-white text-[#111111] font-bold text-sm tracking-wide rounded-xl transition-all shadow-md hover:bg-transparent hover:text-white active:scale-[0.99] flex items-center justify-center gap-2 cursor-pointer mt-4"
         >
-          <ListFilter className="h-4.5 w-4.5 text-bg-dark" />
+          <ListFilter className="h-4.5 w-4.5" />
           <span>Get My List</span>
         </button>
       </form>

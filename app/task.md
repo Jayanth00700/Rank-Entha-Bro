@@ -1,0 +1,26 @@
+# Refactoring Task Checklist - Rank Entha Bro
+
+- [x] Update `globals.css` to use premium matte glass styling and remove neon color/glow filters
+- [x] Correct project metadata in `layout.tsx` to "Rank Entha Bro"
+- [x] Refactor `Navigation.tsx` to crop the logo inside a white rounded square box with name and EAPCET counselling assistant subtitle at top-left
+- [x] Keep logo container in header small (h-10 w-10 box, image 28x28)
+- [x] Style header right-side with About button, and remove Get My List and Search button
+- [x] Display COLLEGE PREFERENCE landing page heading (with custom light/heavy font weights styling)
+- [x] Remove Round, Category, and Year status chips from landing page
+- [x] Update Form card title with green indicator dot, and remove three dots action menu
+- [x] Update theme variables in `globals.css` for a flat black-and-white visual palette (bg: `#111111`, accent: `#FFFFFF`)
+- [x] Style segmented controls in `Form.tsx` to use solid white backgrounds for active selections and transparent outlines for inactive options
+- [x] Create the custom searchable course selector component in `Form.tsx` and strip neon states
+- [x] Update the linear progress bar styles in `Loader.tsx` to align with the matte theme
+- [x] Revamp `Results.tsx` to include the "Back to Home" button, structured option grouping, Congratulations card profile recap, and updated card/footer layouts
+- [x] Remove duplicate arrow from Back to Home buttons (leaving only Lucide ArrowLeft icon)
+- [x] Add Back to Home button above About page card and update version to 1.2.0
+- [x] Remove limit labels from results options list (beside Eligible status pill)
+- [x] Append a minimal, elegant animated footer in layout (aligned closer to card content, flat text)
+- [x] Scroll browser window to the top instantly upon switching page/results layout states
+- [x] Remove "(optional)" tag from Student name input label
+- [x] Disable celebration confetti animation overlay on Results load
+- [x] Parse `College_Preference_data.txt` and sort options by popularity precedence ranking
+- [x] Map dynamic OC limit (lower rank limit) and category limit (upper rank limit) on every card (with range mapping for SC)
+- [x] Modify matching algorithm inside page.tsx to correctly evaluate reserved category eligibility for OC seats and treat "NA" ranks as open vacancies
+- [x] Run production build and verify all options are correctly listed

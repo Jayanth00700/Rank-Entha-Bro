@@ -514,10 +514,6 @@ export default function Results({ name, rank, category, gender, options, prefere
                           </div>
 
                           <div className="flex flex-col sm:flex-row items-end sm:items-center shrink-0 gap-4 self-center text-right">
-                            <div className="flex flex-col text-[10px] font-bold text-subtext/90 gap-0.5 select-none leading-none">
-                              <div>OC Limit: <span className="text-white font-mono">{br.ocCutoffText}</span></div>
-                              <div className="mt-0.5">{category} Limit: <span className="text-[#84CC16] font-mono">{br.categoryCutoffText}</span></div>
-                            </div>
                             <span className="flex items-center gap-1 text-[10px] font-bold tracking-wide uppercase px-2 py-0.5 rounded-full bg-success/10 border border-success/20 text-success">
                               <CheckCircle className="h-2.5 w-2.5" /> Eligible
                             </span>
@@ -588,10 +584,6 @@ export default function Results({ name, rank, category, gender, options, prefere
                           </div>
 
                           <div className="flex flex-col sm:flex-row items-end sm:items-center shrink-0 gap-4 self-center text-right">
-                            <div className="flex flex-col text-[10px] font-bold text-subtext/90 gap-0.5 select-none leading-none">
-                              <div>OC Limit: <span className="text-white font-mono">{col.ocCutoffText}</span></div>
-                              <div className="mt-0.5">{category} Limit: <span className="text-[#84CC16] font-mono">{col.categoryCutoffText}</span></div>
-                            </div>
                             <span className="flex items-center gap-1 text-[10px] font-bold tracking-wide uppercase px-2 py-0.5 rounded-full bg-success/10 border border-success/20 text-success">
                               <CheckCircle className="h-2.5 w-2.5" /> Eligible
                             </span>

@@ -10,7 +10,7 @@ interface NavigationProps {
 
 export default function Navigation({ onNavigate, currentStep }: NavigationProps) {
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-white/5 bg-[#090909]/80 backdrop-blur-md">
+    <header className="sticky top-0 z-50 w-full border-b border-white/5 bg-[#111111]/80 backdrop-blur-md">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           
@@ -20,12 +20,12 @@ export default function Navigation({ onNavigate, currentStep }: NavigationProps)
             onClick={() => onNavigate('form')}
           >
             {/* White rounded square container for Logo - zoomed in by reducing padding & increasing size */}
-            <div className="relative h-11 w-11 overflow-hidden rounded-xl bg-white p-1 flex items-center justify-center shrink-0 border border-white/15 shadow-sm">
+            <div className="relative h-10 w-10 overflow-hidden rounded-xl bg-white p-1.5 flex items-center justify-center shrink-0 border border-white/15 shadow-sm">
               <Image 
                 src="/Logo.png" 
                 alt="Rank Entha Bro Logo" 
-                width={36} 
-                height={36}
+                width={28} 
+                height={28}
                 className="object-contain"
               />
             </div>
@@ -47,7 +47,7 @@ export default function Navigation({ onNavigate, currentStep }: NavigationProps)
               onClick={() => onNavigate('about')}
               className={`flex items-center gap-1.5 rounded-full px-4 py-2 text-xs font-bold tracking-wide transition-all cursor-pointer border ${
                 currentStep === 'about'
-                  ? "bg-white/15 text-white border-white/20"
+                  ? "bg-white text-[#111111] border-white shadow-md"
                   : "bg-transparent text-white border-white/10 hover:bg-white/5"
               }`}
             >

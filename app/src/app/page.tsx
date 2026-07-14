@@ -29,6 +29,11 @@ export default function Home() {
   const [selectedCategory, setSelectedCategory] = useState("OC");
   const formRef = useRef<HTMLDivElement | null>(null);
 
+  // Scroll to top of viewport when switching layout steps (e.g. from Form -> Results)
+  React.useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "instant" });
+  }, [step]);
+
   const dataset = rawData as RawRecord[];
 
   // Extract unique districts and courses for form selection
@@ -300,8 +305,8 @@ export default function Home() {
               className="w-full max-w-3xl flex flex-col items-start py-8 px-4 md:py-12"
             >
               {/* Header Title */}
-              <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight mb-2 text-white uppercase">
-                COLLEGE <span className="text-[#84CC16]">PREFERENCE</span>
+              <h1 className="text-4xl sm:text-5xl tracking-tight mb-2 uppercase select-none">
+                <span className="font-light text-white/60">COLLEGE</span> <span className="font-black text-white">PREFERENCE</span>
               </h1>
               <p className="text-sm md:text-base text-gray-400 max-w-xl mb-8 font-semibold">
                 Set your rank and criteria, we'll rank the right colleges and branches for you.
@@ -400,7 +405,7 @@ export default function Home() {
                 </ul>
 
                 <div className="border-t border-white/5 pt-6 flex items-center justify-between text-xs text-subtext font-semibold">
-                  <span>Version 1.1.0</span>
+                  <span>Version 1.2.0</span>
                   <a 
                     href="https://tgeapcet.nic.in/" 
                     target="_blank" 
@@ -415,6 +420,18 @@ export default function Home() {
           )}
 
         </AnimatePresence>
+
+        {/* Minimal, elegant footer - aligned closer with moderate padding and flat flat gray text */}
+        <footer className="w-full pt-8 pb-12 mt-4 flex items-center justify-center text-center px-4 no-print select-none">
+          <motion.p
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.8, delay: 0.3 }}
+            className="text-xs md:text-[13px] font-medium text-[#9CA3AF] tracking-wide select-none cursor-default"
+          >
+            © 2026 Rank Entha Bro • Designed & Developed by Jayanth
+          </motion.p>
+        </footer>
       </main>
     </div>
   );
