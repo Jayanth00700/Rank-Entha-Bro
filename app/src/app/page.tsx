@@ -8,7 +8,7 @@ import Loader from "@/components/Loader";
 import Results, { OptionResult } from "@/components/Results";
 import rawData from "@/data/data.json";
 import collegePrecedenceMap from "@/data/college_precedence.json";
-import { CheckCircle, ExternalLink } from "lucide-react";
+import { CheckCircle, ExternalLink, ArrowLeft } from "lucide-react";
 
 interface RawRecord {
   collegeCode: string;
@@ -303,22 +303,9 @@ export default function Home() {
               <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight mb-2 text-white uppercase">
                 COLLEGE <span className="text-[#84CC16]">PREFERENCE</span>
               </h1>
-              <p className="text-sm md:text-base text-gray-400 max-w-xl mb-6 font-semibold">
+              <p className="text-sm md:text-base text-gray-400 max-w-xl mb-8 font-semibold">
                 Set your rank and criteria, we'll rank the right colleges and branches for you.
               </p>
-
-              {/* Status Chips */}
-              <div className="flex flex-wrap gap-2.5 mb-8">
-                <span className="text-xs font-semibold px-4 py-1.5 rounded-full bg-white/5 border border-white/8 text-white">
-                  Round: <span className="font-extrabold">Phase 1</span>
-                </span>
-                <span className="text-xs font-semibold px-4 py-1.5 rounded-full bg-white/5 border border-white/8 text-white">
-                  Category: <span className="font-extrabold text-[#84CC16]">{selectedCategory}</span>
-                </span>
-                <span className="text-xs font-semibold px-4 py-1.5 rounded-full bg-white/5 border border-white/8 text-white">
-                  Year: <span className="font-extrabold">2026</span>
-                </span>
-              </div>
 
               {/* Form Section */}
               <div className="w-full">
@@ -374,8 +361,17 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: 10 }}
               transition={{ duration: 0.3 }}
-              className="w-full max-w-3xl px-4 py-12 md:py-20 flex flex-col gap-8"
+              className="w-full max-w-3xl px-4 py-12 md:py-20 flex flex-col gap-4"
             >
+              {/* Back to Home Button */}
+              <button
+                onClick={() => setStep('form')}
+                className="group flex items-center gap-2 text-sm font-bold text-subtext hover:text-white transition-colors mb-2 cursor-pointer w-fit"
+              >
+                <ArrowLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1" />
+                <span>Back to Home</span>
+              </button>
+
               <div className="glass-card rounded-2xl p-6 md:p-10 border border-white/8 shadow-2xl relative overflow-hidden">
                 <div className="absolute -top-32 -right-32 w-64 h-64 bg-white/5 rounded-full blur-3xl pointer-events-none" />
 
@@ -404,7 +400,7 @@ export default function Home() {
                 </ul>
 
                 <div className="border-t border-white/5 pt-6 flex items-center justify-between text-xs text-subtext font-semibold">
-                  <span>Version 1.0.0</span>
+                  <span>Version 1.1.0</span>
                   <a 
                     href="https://tgeapcet.nic.in/" 
                     target="_blank" 

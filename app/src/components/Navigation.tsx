@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { ListFilter, Info, Search } from "lucide-react";
+import { Info } from "lucide-react";
 
 interface NavigationProps {
   onNavigate: (step: 'form' | 'about') => void;
@@ -19,13 +19,13 @@ export default function Navigation({ onNavigate, currentStep }: NavigationProps)
             className="flex items-center gap-3 cursor-pointer" 
             onClick={() => onNavigate('form')}
           >
-            {/* White rounded square container for Logo */}
-            <div className="relative h-10 w-10 overflow-hidden rounded-xl bg-white p-1.5 flex items-center justify-center shrink-0 border border-white/15 shadow-sm">
+            {/* White rounded square container for Logo - zoomed in by reducing padding & increasing size */}
+            <div className="relative h-11 w-11 overflow-hidden rounded-xl bg-white p-1 flex items-center justify-center shrink-0 border border-white/15 shadow-sm">
               <Image 
                 src="/Logo.png" 
                 alt="Rank Entha Bro Logo" 
-                width={28} 
-                height={28}
+                width={36} 
+                height={36}
                 className="object-contain"
               />
             </div>
@@ -41,20 +41,8 @@ export default function Navigation({ onNavigate, currentStep }: NavigationProps)
             </div>
           </div>
 
-          {/* Navigation Links & Search (Right Side) */}
+          {/* Navigation Links (Right Side) */}
           <div className="flex items-center gap-2">
-            <button
-              onClick={() => onNavigate('form')}
-              className={`flex items-center gap-1.5 rounded-full px-4 py-2 text-xs font-bold tracking-wide transition-all cursor-pointer ${
-                currentStep === 'form' || currentStep === 'loading' || currentStep === 'results'
-                  ? "bg-[#84CC16] text-[#090909] shadow-md hover:bg-[#84CC16]/90"
-                  : "bg-white/5 text-white hover:bg-white/10"
-              }`}
-            >
-              <ListFilter className="h-3.5 w-3.5" />
-              <span>Get My List</span>
-            </button>
-            
             <button
               onClick={() => onNavigate('about')}
               className={`flex items-center gap-1.5 rounded-full px-4 py-2 text-xs font-bold tracking-wide transition-all cursor-pointer border ${
@@ -65,15 +53,6 @@ export default function Navigation({ onNavigate, currentStep }: NavigationProps)
             >
               <Info className="h-3.5 w-3.5" />
               <span>About</span>
-            </button>
-
-            {/* Circular Search Icon Button */}
-            <button
-              type="button"
-              onClick={() => onNavigate('form')}
-              className="h-9 w-9 rounded-full bg-white/5 hover:bg-white/10 border border-white/5 flex items-center justify-center text-white/80 hover:text-white transition-all cursor-pointer"
-            >
-              <Search className="h-4 w-4" />
             </button>
           </div>
 

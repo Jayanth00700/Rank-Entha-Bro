@@ -290,7 +290,7 @@ export default function Results({ name, rank, category, gender, options, prefere
         className="no-print group flex items-center gap-2 text-sm font-bold text-subtext hover:text-white transition-colors mb-6 cursor-pointer"
       >
         <ArrowLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1" />
-        <span>← Back to Home</span>
+        <span>Back to Home</span>
       </button>
 
       {/* Structured Congratulations Profile Summary */}

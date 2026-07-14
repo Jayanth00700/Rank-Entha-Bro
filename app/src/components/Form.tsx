@@ -119,17 +119,12 @@ export default function Form({ districts, courses, onCategoryChange, onSubmit }:
         <div className="absolute -top-32 -right-32 w-64 h-64 bg-white/5 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute -bottom-32 -left-32 w-64 h-64 bg-white/5 rounded-full blur-3xl pointer-events-none" />
 
-        {/* Customized card header with green bullet and right-side action dot menu */}
-        <div className="flex items-center justify-between mb-8 border-b border-white/5 pb-5">
-          <div className="flex items-center gap-2">
-            <span className="h-2 w-2 rounded-full bg-[#84CC16] animate-pulse" />
-            <h2 className="text-xs font-bold text-white uppercase tracking-wider">
-              Counselling Preferences
-            </h2>
-          </div>
-          <div className="text-gray-500 hover:text-white transition-colors cursor-pointer text-sm font-bold tracking-widest select-none">
-            •••
-          </div>
+        {/* Customized card header with green bullet */}
+        <div className="flex items-center gap-2 mb-8 border-b border-white/5 pb-5">
+          <span className="h-2 w-2 rounded-full bg-[#84CC16] animate-pulse" />
+          <h2 className="text-xs font-bold text-white uppercase tracking-wider">
+            Counselling Preferences
+          </h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
