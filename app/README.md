@@ -126,26 +126,40 @@ MGIT
 
 ```
 Rank-Entha-Bro/
-
+│
 ├── public/
-│   ├── images
-│   └── assets
+│   ├── Logo.png
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── next.svg
+│   ├── vercel.svg
+│   └── window.svg
 │
 ├── src/
 │   ├── app/
+│   │   ├── favicon.ico
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   │
 │   ├── components/
-│   ├── hooks/
-│   ├── lib/
-│   ├── types/
-│   ├── utils/
-│   └── styles/
+│   │   ├── Form.tsx
+│   │   ├── Loader.tsx
+│   │   ├── Navigation.tsx
+│   │   └── Results.tsx
+│   │
+│   └── data/
+│       ├── college_precedence.json
+│       └── data.json
 │
-├── data.json
-├── College_Preference_data.txt
-├── Logo.png
+├── .gitignore
 ├── README.md
+├── eslint.config.mjs
+├── next.config.ts
 ├── package.json
-└── next.config.ts
+├── package-lock.json
+├── postcss.config.mjs
+├── tsconfig.json
 ```
 
 ---
