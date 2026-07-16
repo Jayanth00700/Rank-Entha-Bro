@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+<p align="left">
 Helping Telangana EAPCET aspirants make smarter counselling decisions.
 </p>
 
