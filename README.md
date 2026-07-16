@@ -39,9 +39,6 @@ The application processes the official **TG EAPCET 2025 Final Phase Last Rank** 
 - 📚 Multiple Branch Support
 - ⚡ Fast Recommendation Engine
 - 📱 Responsive Design
-- 🌙 Premium Glassmorphism UI
-- 🔎 Search & Filter Colleges
-- 📄 Generate up to 150 Web Options
 
 ---
 
