@@ -252,8 +252,6 @@ The generated preference list should be considered as guidance and not as an off
 
 **Jayanth**
 
-Designed & Developed by Jayanth
-
 GitHub
 
 https://github.com/Jayanth00700
