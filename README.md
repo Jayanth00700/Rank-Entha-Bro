@@ -249,9 +249,9 @@ The generated preference list should be considered as guidance and not as an off
 
 **Jayanth**
 
-GitHub
+Live Link: https://rank-entha-bro.vercel.app/
 
-https://github.com/Jayanth00700
+GitHub: https://github.com/Jayanth00700
 
 ---
 
