@@ -122,41 +122,31 @@ MGIT
 ## 📂 Project Structure
 
 ```
-Rank-Entha-Bro/
-│
-├── public/
-│   ├── Logo.png
-│   ├── file.svg
-│   ├── globe.svg
-│   ├── next.svg
-│   ├── vercel.svg
-│   └── window.svg
-│
-├── src/
-│   ├── app/
-│   │   ├── favicon.ico
-│   │   ├── globals.css
-│   │   ├── layout.tsx
-│   │   └── page.tsx
-│   │
-│   ├── components/
-│   │   ├── Form.tsx
-│   │   ├── Loader.tsx
-│   │   ├── Navigation.tsx
-│   │   └── Results.tsx
-│   │
-│   └── data/
-│       ├── college_precedence.json
-│       └── data.json
-│
-├── .gitignore
-├── README.md
-├── eslint.config.mjs
-├── next.config.ts
-├── package.json
-├── package-lock.json
-├── postcss.config.mjs
-├── tsconfig.json
+Directory structure:
+└── jayanth00700-rank-entha-bro/
+    ├── README.md
+    ├── app/
+    │   ├── README.md
+    │   ├── eslint.config.mjs
+    │   ├── next.config.ts
+    │   ├── package.json
+    │   ├── postcss.config.mjs
+    │   ├── tsconfig.json
+    │   └── src/
+    │       ├── app/
+    │       │   ├── globals.css
+    │       │   ├── layout.tsx
+    │       │   └── page.tsx
+    │       ├── components/
+    │       │   ├── Form.tsx
+    │       │   ├── Loader.tsx
+    │       │   ├── Navigation.tsx
+    │       │   └── Results.tsx
+    │       └── data/
+    │           └── college_precedence.json
+    └── Docs/
+        └── College_Preference_data.txt
+
 ```
 
 ---
